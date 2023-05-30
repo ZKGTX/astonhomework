@@ -1,0 +1,45 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'16'
+-sourcepath
+'C:/Workspace/astonhomework/astonhomework/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Workspace/astonhomework/astonhomework/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'astonhomework 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'astonhomework 1.0-SNAPSHOT API'
+com.trch.homework
+C:\Workspace\astonhomework\astonhomework\src\main\java = 1684935971136
+C:\Workspace\astonhomework\astonhomework\target\site\apidocs\allclasses-index.html = 1685430461161
+C:\Workspace\astonhomework\astonhomework\target\site\apidocs\allpackages-index.html = 1685430461165
+C:\Workspace\astonhomework\astonhomework\target\site\apidocs\copy.svg = 1685430461211
+C:\Workspace\astonhomework\astonhomework\target\site\apidocs\element-list = 1685430461091
+C:\Workspace\astonhomework\astonhomework\target\site\apidocs\help-doc.html = 1685430461203
+C:\Workspace\astonhomework\astonhomework\target\site\apidocs\index-all.html = 1685430461191
+C:\Workspace\astonhomework\astonhomework\target\site\apidocs\index.html = 1685430461197
+C:\Workspace\astonhomework\astonhomework\target\site\apidocs\jquery-ui.overrides.css = 1685430461232
+C:\Workspace\astonhomework\astonhomework\target\site\apidocs\member-search-index.js = 1685430461171
+C:\Workspace\astonhomework\astonhomework\target\site\apidocs\module-search-index.js = 1685430461166
+C:\Workspace\astonhomework\astonhomework\target\site\apidocs\overview-tree.html = 1685430461144
+C:\Workspace\astonhomework\astonhomework\target\site\apidocs\package-search-index.js = 1685430461168
+C:\Workspace\astonhomework\astonhomework\target\site\apidocs\script.js = 1685430461210
+C:\Workspace\astonhomework\astonhomework\target\site\apidocs\search-page.js = 1685430461221
+C:\Workspace\astonhomework\astonhomework\target\site\apidocs\search.html = 1685430461194
+C:\Workspace\astonhomework\astonhomework\target\site\apidocs\search.js = 1685430461214
+C:\Workspace\astonhomework\astonhomework\target\site\apidocs\stylesheet.css = 1685430461207
+C:\Workspace\astonhomework\astonhomework\target\site\apidocs\tag-search-index.js = 1685430461173
+C:\Workspace\astonhomework\astonhomework\target\site\apidocs\type-search-index.js = 1685430461170

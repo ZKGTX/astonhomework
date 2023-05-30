@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.trch.homework","l":"CustomArrayList"},{"p":"com.trch.homework","l":"Sorter"}];updateSearchResults();
